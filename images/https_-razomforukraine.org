@@ -275,7 +275,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
 							<li class="list-social__item"><a target="_blank" href="			https://www.youtube.com/channel/UCG4AX6XaDpfA_5jTLu3eK-w
 		" class="list-social__link"><span class="icon icon-youtube"></span></a></li>
 						</ul>
-						<a href="https://razom4ukraine.live/donate/" class="btn">
+						<a href="https://razomforukraine.live/donate/" class="btn">
 							donate
 							<span class="icon-btn"><img src="https://static.razomforukraine.org/wp-content/themes/heartfelt/img/icon_heart.png" alt=""></span>
 						</a>
@@ -304,7 +304,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
 </li>
 <li id="menu-item-9016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9016"><a href="https://razomforukraine.org/projects/">Projects</a></li>
 <li id="menu-item-12072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12072"><a href="https://razomforukraine.org/partner-projects/">Partners</a></li>
-<li id="menu-item-12604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12604"><a href="https://razom4ukraine.live/blog/">Blog</a></li>
+<li id="menu-item-12604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12604"><a href="https://razomforukraine.live/blog/">Blog</a></li>
 <li id="menu-item-12478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12478"><a href="https://razomforukraine.org/contact/">Contact</a></li>
 </ul>			        </section></nav>
 				</div>
@@ -327,7 +327,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
 						<div class="elementor-element elementor-element-4ae3f9d elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="4ae3f9d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p style="text-align: center;"><strong>FOR MEDIA INQUIRIES PLEASE CONTACT info@razom4ukraine.live OR CALL +(615)551-2167</strong></p>					</div>
+				<p style="text-align: center;"><strong>FOR MEDIA INQUIRIES PLEASE CONTACT info@razomforukraine.live OR CALL +(615)551-2167</strong></p>					</div>
 						</div>
 				</div>
 						</div>
@@ -1084,7 +1084,7 @@ allowable under IRS regulations.
 EIN: 46-4604398
 </div>
 		</aside>								<div class="line-socials line-socials_in-cont">
-									<a href="https://razom4ukraine.live/donate/" class="btn white-color">
+									<a href="https://razomforukraine.live/donate/" class="btn white-color">
 										donate
 										<span class="icon-btn"><img src="https://static.razomforukraine.org/wp-content/themes/heartfelt/img/icon_heart.png" alt=""></span>
 									</a>
@@ -1111,7 +1111,7 @@ EIN: 46-4604398
 										<ul id="menu-footer-menu" class="nav-links"><li id="menu-item-1298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1116 current_page_item active menu-item-1298"><a href="https://razomforukraine.org/" aria-current="page">Home</a></li>
 <li id="menu-item-8982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8982"><a href="https://razomforukraine.org/about-us/">About Us</a></li>
 <li id="menu-item-8983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8983"><a href="https://razomforukraine.org/news/">Blog</a></li>
-<li id="menu-item-1299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1299"><a href="https://razom4ukraine.live/donate/">Donate</a></li>
+<li id="menu-item-1299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1299"><a href="https://razomforukraine.live/donate/">Donate</a></li>
 <li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a href="https://razomforukraine.org/contact/">Contact Us</a></li>
 </ul>										<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style>
