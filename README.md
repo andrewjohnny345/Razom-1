@@ -1,1 +1,1 @@
-"# Razom" 
+# Razom
